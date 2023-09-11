@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "flynn-home-user",
+        "sshAuthorizedKeys": [
+          "ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAF+hasekLlkDY2tZdmNEY5ryLpPoyoD4QUOONthW4030YLxLewiB+bh61O/C2NqFOi4M3Mt+6eMg/dYd4bLfsjwsAEkwpMYWLkGcO6mMv1VZ+BIm606OVC6zXY/xKUtfltyioAm+D44UmqgrGop3giSq2vAxvgdms0wYWPvX+cb+sC3Mg== grego@DESKTOP-1N8Q74B"
+        ]
+      }
+    ]
+  }
+}
